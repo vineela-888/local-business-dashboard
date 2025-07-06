@@ -36,18 +36,3 @@ npm install
 npm run dev
 
 
-local-business-dashboard/
-├── backend/
-│   ├── server.js
-│   └── utils/
-│       └── headlines.js
-├── frontend/
-│   ├── public/
-│   └── src/
-│       ├── components/
-│       │   ├── BusinessForm.jsx
-│       │   └── BusinessCard.jsx
-│       ├── App.jsx
-│       ├── index.css
-│       └── main.jsx
-├── README.md
