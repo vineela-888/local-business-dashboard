@@ -1,10 +1,10 @@
 # local-business-dashboard
 
-# 📊 Mini Local Business Dashboard
+#  Mini Local Business Dashboard
 
 A full-stack mini dashboard that simulates how small businesses might view their SEO content and Google Business data — one of GrowthProAI’s core use cases.
 
-## 🚀 Features
+##  Features
 
 - Business input form (name & location)
   - Simulated Google Rating & number of reviews
