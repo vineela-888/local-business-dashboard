@@ -27,7 +27,27 @@ A full-stack mini dashboard that simulates how small businesses might view their
 - Express
 - CORS
 
----
+frontend/ # React + Tailwind App
+backend/ # Node.js + Express API
 
-## 📂 Folder Structure
+ FRONTEND-SETUP:
+ cd frontend
+npm install
+npm run dev
 
+
+local-business-dashboard/
+├── backend/
+│   ├── server.js
+│   └── utils/
+│       └── headlines.js
+├── frontend/
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       │   ├── BusinessForm.jsx
+│       │   └── BusinessCard.jsx
+│       ├── App.jsx
+│       ├── index.css
+│       └── main.jsx
+├── README.md
